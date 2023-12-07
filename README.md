@@ -1,0 +1,1 @@
+# Joomla-4.2.1-Unauthenticated-information-disclosure
